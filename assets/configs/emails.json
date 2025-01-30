@@ -1,0 +1,24 @@
+{
+    "emails": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+} 
+
+/*           INSTRUÇÕES
+
+    Lista de destinatários do e-mail 
+    Necessário preencher com os e-mails dos destinatários
+    Não é necessário preencher com o e-mail do remetente
+    Necessário preencher com no mínimo 1 e-mail	
+    Não esquecer de apagar esse comentário
+*/

@@ -1,0 +1,12 @@
+{
+  "name": "Node Mailer",
+  "version": "1.5",
+  "main": "app.js",
+  "dependencies": {
+    "nodemailer": "^6.10.0",
+    "google-auth-library": "^9.15.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
